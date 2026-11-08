@@ -1,5 +1,5 @@
 // GANTI DENGAN URL WEB APP MILIKMU
-const API_URL = "URL_WEB_APP_APPS_SCRIPT_DI_SINI"; 
+const API_URL = "https://script.google.com/macros/s/AKfycbxjUMPf5AHMoTY7m58fnD4tb9Y9ENxE4C6_pmqS3A2NFaNWs9wpF4gC-_ZcbIqK4Rtl3Q/exec"; 
 
 // Element DOM
 const form = document.getElementById('pegawaiForm');
